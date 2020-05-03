@@ -1,2 +1,2 @@
 # Snake-Game
-This is a game snake make with Javascript, CSS and HTML(canvas).
+This is a snake game make with Javascript, CSS and HTML(canvas).
